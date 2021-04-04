@@ -21,4 +21,4 @@ In this project, we will implement  traditional machine learning algorithms, dee
 
 ## Topics <a name="topics"></a>
 ### Day 1: Linear Regression, Lasso Regression and Ridge Regression with gradient Descent
-File: **Day1: Linear, Lasso and Ridge Regression.ipnyb**
+File: **Day1: day1-linear-lasso-and-ridge-regression.ipynb**
