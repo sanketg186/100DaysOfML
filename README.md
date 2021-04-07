@@ -28,3 +28,6 @@ File: **day-2-logistic-regression.ipynb**
 
 ### Day 3: Logistic Regression
 File: **day-3-naive-bayes.ipynb**
+
+### Day 4: K-Nearest Neighbor
+File: **day-4-k-nearest-neighbor.ipynb**
