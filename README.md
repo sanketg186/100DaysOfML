@@ -26,7 +26,7 @@ File: **Day1: day1-linear-lasso-and-ridge-regression.ipynb**
 ### Day 2: Logistic Regression
 File: **day-2-logistic-regression.ipynb**
 
-### Day 3: Logistic Regression
+### Day 3: Naive Bayes Classifier
 File: **day-3-naive-bayes.ipynb**
 
 ### Day 4: K-Nearest Neighbor
