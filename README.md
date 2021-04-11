@@ -36,5 +36,5 @@ File: **day-4-k-nearest-neighbor.ipynb**
 File: **day-5-multi-layer-perceptron.ipynb**
 
 ### Day 6: Support Vector Machine
-File: **day-6-support-vector-machines.ipynb.ipynb**
+File: **day-6-support-vector-machines.ipynb**
 
