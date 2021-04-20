@@ -38,3 +38,6 @@ File: **day-5-multi-layer-perceptron.ipynb**
 ### Day 6: Support Vector Machine
 File: **day-6-support-vector-machines.ipynb**
 
+### Day 7: Decision Tree Classifier
+File: **day-7-decision-tree-classifier.ipynb**
+
