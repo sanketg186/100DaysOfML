@@ -36,3 +36,4 @@ In this project, we will implement  traditional machine learning algorithms, dee
 
 ### Day 8: [K-Means Clustering](https://github.com/sanketg186/100DaysOfML/blob/main/day-8-k-means-clustering.ipynb)
 ### Day 9: [Principal Component Analysis](https://github.com/sanketg186/100DaysOfML/blob/main/day-9-principal-component-analysis.ipynb)
+### Day 10: [Neural Network](https://github.com/sanketg186/100DaysOfML/blob/main/day-10-neural-network.ipynb)
